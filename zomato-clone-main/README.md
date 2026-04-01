@@ -73,16 +73,4 @@ npm run build
  
 ---
 
-## 🤝 **Contributing**  
-
-Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request.  
-
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/22lavanya/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](hhttps://github.com/22lavanyas)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/22lavanya11)
-
----
-
-### 🎉 **Happy Coding!** 🚀  
+  
