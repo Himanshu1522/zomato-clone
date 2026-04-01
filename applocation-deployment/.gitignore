@@ -1,0 +1,52 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.backup
+.crash
+.terraform/
+.terraform.lock.hcl
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+terraform.tfvars
+terraform.tfvars.json
+# fileee*
+# Sensitive files (if using AWS, GCP, etc.)
+*.pem
+*.key
+*.crt
+
+# Helm & Kubernetes related
+*.tgz
+charts/
+*.lock
+values.yaml
+values-*.yaml
+secrets.yaml
+secrets-*.yaml
+
+# Helm release cache
+.release-cache/
+
+# Ignore Kubernetes manifest output
+*.yaml
+*.yml
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node-related (if you have a frontend)
+node_modules/
+package-lock.json
+yarn.lock
