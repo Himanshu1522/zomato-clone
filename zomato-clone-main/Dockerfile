@@ -12,6 +12,8 @@ RUN NODE_OPTIONS=--openssl-legacy-provider npm run build
 # Production Stage
 FROM nginx:alpine
 
+
+
 # Copy build files to Nginx public directory
 COPY --from=builder /app/build /usr/share/nginx/html
 
